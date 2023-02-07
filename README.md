@@ -10,7 +10,7 @@ You are provided with historical advertising data – weekly sales and spend on 
 FUTURE WORK: Perform the same analysis/operations for the Radio and Newspaper campaigns and state resulting feedback.
 ***
 Tasks:
-**
+***
 1.	You will need to illustrate the relationships using plots.
 2.	You will need to show the relationships strength using numbers - correlation.
 3.	You will need to determine if the individual features are statistically significant relative to the Sales by getting the p-values for the features.4.	Discuss t
